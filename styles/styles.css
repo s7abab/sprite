@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Lilita+One&display=swap');
+
+header{
+    background-color:#009b4e;
+}
+ul{
+    list-style: none;
+}
+.logo img{
+    width: 140px;
+}
+
+main{
+    background-color: rgb(0, 0, 0);
+}
+main img{
+    width: 300px;
+}
+
+main h1{
+    font-size: 65px;
+    font-family: 'Lilita One', cursive;
+}
+
+main .photo img{
+    width: 100%;
+}
+.learn-more-btn{
+    background-color: rgb(255,209,0);
+    border: 1px solid rgb(255,209,0);
+    margin-top: 80px;
+}
+
+section img{
+    width: 80%;
+}
+
+.lemon-image img{
+    width: 100%;
+}
+
+footer{
+    background-color:#009b4e;
+}
+
+footer img{
+    width: 140px;
+}
