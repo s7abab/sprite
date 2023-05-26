@@ -85,6 +85,12 @@ footer{
     color: #028745;
     font-family: 'Lilita One', cursive;
 }
+.black:hover{
+    color: #000000;
+}
+.zoom:hover{
+    transform: scale(1.5);
+}
 #hide{
     display: none;
 }
